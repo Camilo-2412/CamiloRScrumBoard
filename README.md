@@ -1,5 +1,5 @@
 # CamiloRScrumBoard
-===
+
 1. Create dir ```backend``` y ```frontend```.
 2. Create ```.gitignore``` file  and add this lines.
 ```=
